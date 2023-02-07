@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="7" started-at="2023-02-05T16:22:16 CST" finished-at="2023-02-05T16:22:16 CST">
+    <groups>
+    </groups>
+    <test name="All Functionalities" duration-ms="7" started-at="2023-02-05T16:22:16 CST" finished-at="2023-02-05T16:22:16 CST">
+    </test> <!-- All Functionalities -->
+  </suite> <!-- Regression -->
+</testng-results>
